@@ -18,9 +18,6 @@ export default function Page() {
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <strong>Welcome to Acme.</strong> Simplify Your Invoicing{' '}
-            {/* <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
-            </a> */}
           </p>
           <Link
             href="/login"
